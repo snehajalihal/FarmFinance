@@ -118,3 +118,18 @@ FarmFinance aims to simplify agricultural financial record-keeping by bringing c
 
 **Project:** FarmFinance – Farm Financial Management System  
 **Status:** Development and testing completed for the current feature set.
+
+
+## Application Screenshots
+
+### Dashboard
+![FarmFinance Dashboard](screenshots/dashboard.png)
+
+### Crop Management
+![Crop Management](screenshots/crop-management.png)
+
+### Transactions
+![Transaction Management](screenshots/transactions.png)
+
+### Monthly Financial Reports
+![Monthly Financial Reports](screenshots/reports.png)
