@@ -55,6 +55,19 @@ Farm-Financial-Management/
 
 ## Getting Started
 
+## Database Setup
+
+FarmFinance uses MySQL as its database.
+
+1. Open MySQL Workbench and connect to your local MySQL server.
+2. Open the `schema.sql` file from the project root folder.
+3. Execute the SQL script using the lightning bolt button.
+4. Refresh the Schemas panel and verify that the following tables are created:
+   - `crops`
+   - `transactions`
+
+The script automatically creates the `farm_financial_management` database and establishes the relationship between crops and transactions.
+
 ### 1. Clone the Repository
 
 ```bash
